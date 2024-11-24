@@ -53,6 +53,9 @@
 .tab-content {
   text-align: justify; }
 
+.testi-text {
+  text-align: justify; }
+
 body {
   color: var(--base-color);
   background: white;
