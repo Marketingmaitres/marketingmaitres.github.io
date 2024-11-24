@@ -540,7 +540,7 @@
 			if($.fn.circleProgress) {
 			  progress1.appear(function () {
 				progress1.circleProgress({
-					value: 0.8,
+					value: 1,
 					size: 140,
                     thickness: 8,
 					fill: "white",
@@ -560,7 +560,7 @@
 			if($.fn.circleProgress) {
 			  progress2.appear(function () {
 				progress2.circleProgress({
-					value: 0.7,
+					value: 1,
 					size: 140,
                     thickness: 8,
 					fill: "white",
@@ -580,7 +580,7 @@
 			if($.fn.circleProgress) {
 			  progress3.appear(function () {
 				progress3.circleProgress({
-					value: 0.9,
+					value: 1,
 					size: 140,
                     thickness: 8,
 					fill: "#674df3",
