@@ -549,7 +549,7 @@
                     startAngle: -Math.PI / 4 * 2,
 					animation : { duration: 2000},
 				  }).on('circle-animation-progress', function(event, progress) {
-					$(this).find('.h2').html(Math.round(89 * progress) + '<span>%</span>');
+					$(this).find('.h2').html(Math.round(100 * progress) + '<span>%</span>');
 				  });
 			  });
 			};
@@ -569,7 +569,7 @@
                     startAngle: -Math.PI / 4 * 2,
 					animation : { duration: 2000},
 				  }).on('circle-animation-progress', function(event, progress) {
-					$(this).find('.h2').html(Math.round(73 * progress) + '<span>%</span>');
+					$(this).find('.h2').html(Math.round(100 * progress) + '<span>%</span>');
 				  });
 			  });
 			};
@@ -589,7 +589,7 @@
                     startAngle: -Math.PI / 4 * 2,
 					animation : { duration: 2000},
 				  }).on('circle-animation-progress', function(event, progress) {
-					$(this).find('.h2').html(Math.round(92 * progress) + '<span>%</span>');
+					$(this).find('.h2').html(Math.round(100 * progress) + '<span>%</span>');
 				  });
 			  });
 			};
