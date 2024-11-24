@@ -6096,7 +6096,7 @@ h6, .h6 {
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
-    margin-left: 50px;
+    margin-left: 20px;
     padding: 33px 28px 15px;
     background: var(--lighter-color); }
     @media only screen and (max-width: 767px) {
