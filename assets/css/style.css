@@ -6295,8 +6295,8 @@ h6, .h6 {
     content: 'k+'; }
   .counter-text-wrap .count-text.percent:after {
     content: '%'; }
-  .counter-text-wrap .count-text.mn-plus:after {
-      content: 'M+'; }
+  .counter-text-wrap .count-text.b-plus:after {
+      content: 'B+'; }
 
 .counter-item {
   margin-bottom: 50px; }
