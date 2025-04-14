@@ -1415,11 +1415,11 @@ textarea {
 }
 
 .cs_gradient_bg_1 {
-  background: linear-gradient(90deg, #F61D26 0.81%, rgba(248, 248, 255, 0) 100%);
+  background: linear-gradient(90deg, #FA8E92 0.81%, rgba(248, 248, 255, 0) 100%);
 }
 
 .cs_gradient_bg_2 {
-  background: linear-gradient(90deg, #F61D26 0.01%, rgba(240, 251, 244, 0) 99.99%);
+  background: linear-gradient(90deg, #FA8E92 0.01%, rgba(240, 251, 244, 0) 99.99%);
 }
 
 .cs_up_3_hover:hover {
