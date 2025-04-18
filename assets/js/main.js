@@ -101,7 +101,9 @@
     if (scroll >= 10) {
       $('.cs_sticky_header').addClass('cs_sticky_active');
     } else {
-      // $('.cs_sticky_header').removeClass('cs_sticky_active');
+      if(window.screen.width > 1800){
+        $('.cs_sticky_header').removeClass('cs_sticky_active');
+      }
     }
   }
 
