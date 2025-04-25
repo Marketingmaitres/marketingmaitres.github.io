@@ -1,19 +1,31 @@
-1. Features 
-1.1 для первого блока
-Текст проверить
-Придумать иконки
-нужны ли ссылки
-2 и 3 блоки полностью пересмотреть, что там будет
+Дизайн и верстка:
+1. 4 значка для кейсов поменять
+2. картинки - 2 шт для разделов платформы и воркфлоу
+3. доработать картинку в разделе контакты
+4. кнопка и текст под пакетами выровнять
+5. в футере кнопки и значки для соцсетей (телеграм, твиттер, реддит, линкедин)
+5. блог, чтобы не дублировал контент статей
+6. формы для связи (текст для заполнения свернут)
+    Стартер
+    I’m interested in the Starter Plan for small businesses.
+    I’d like to receive 15 Reddit posts, 10 Trustpilot reviews, Reddit cold outreach for $500/month
+    Стандарт
+    I’m interested in the Standard Plan for startups. 
+    I’d like to receive 20 Reddit posts, 15 Trustpilot reviews, Reddit cold outreach,
+    200 Reddit comments, 30 Quora replies for $1000/month.
+    Профессионал
+    I’m interested in the Professional Plan for growing brands.
+    I’d like to receive 25 Reddit posts, 20 Trustpilot reviews, Reddit cold outreach,
+    400 Reddit comments, 30 Quora replies, 20 TikTok in-video ads,
+    and 10 Medium articles for $2000/month.
+    Кастом
+    I’m looking for a custom package or a specific service tailored to my needs.
+    Please provide more details or discuss how we can create a plan that fits my business goals.
+7. сделать отзывы подвижными, также как кейсы
+8. картинки в блоках в мобильной версии стоят до заголовков. исправить
+9. шрифт Hero попробовать подгрузить
 
-2. Pricing 
-Пересмотреть, можно сверстать по тому шаблону, но в нашем дизайне
-
-4.  Our worldwide reputed partner
-Нужен ли этот блок - we work with предлагаю разместить во 2 блоке, потому что здесь затеряется
-
-5. FAQ 
-заполнить текстом
-(можно добавить/удалить блоки)
-
-6. Blog
-Придумать концепцию
+Контент:
+10. тексты блога - 3
+11. презентации - 4 (по факту - 2)
+12. бесплатная рассылка
