@@ -1715,6 +1715,10 @@ textarea {
   }
 }
 
+.cs_feature_thumb_1 img {
+  border-radius: 15px;
+}
+
 .cs_list.cs_style_1 {
   display: grid;
   grid-gap: 25px 20px;
@@ -2829,11 +2833,11 @@ textarea {
   }
 }
 .cs_hero.cs_style_1 .cs_hero_subtitle {
-  margin-bottom: 30px;
+  margin-bottom: 45px;
   color: rgba(255, 255, 255, 0.65);
 }
 .cs_hero.cs_style_1 .cs_hero_title {
-  margin-bottom: 10px;
+  margin-bottom: 25px;
 }
 .cs_hero.cs_style_1 .cs_hero_shape1,
 .cs_hero.cs_style_1 .cs_hero_shape2,
@@ -3059,8 +3063,8 @@ textarea {
   position: absolute;
   top: 35px;
   right: -40px;
-  background-color: #e54800;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #F61D26;
   width: 192px;
   padding: 5px 0;
   transform: rotate(45deg);
@@ -3434,6 +3438,10 @@ textarea {
   position: absolute;
   top: 0;
   left: 180px;
+}
+
+.cs_contact_thumb img{
+  border-radius: 15px;
 }
 
 .cs_form_field {
